@@ -21,7 +21,9 @@
   },
   "devDependencies": {
     "@types/node": "~20.17.17",
+    "dotenv": "^16.4.7",
     "tsup": "~8.3.6",
+    "tsx": "^4.19.2",
     "typescript": "~5.6.3"
   },
   "publishConfig": {
